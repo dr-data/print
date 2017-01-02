@@ -7216,6 +7216,7 @@ int ExtTemp;
 int BedTemp;
 int ExtTarg;
 int BedTarg;
+
 //Static Colors
 void off(){Rval = 0;Gval = 0;Bval = 0;}
 void white(){Rval = LEDmax;Gval = LEDmax;Bval = LEDmax;}
